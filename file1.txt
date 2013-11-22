@@ -1,1 +1,2 @@
 My first git learning endeavor
+This is ammendment to file 1
